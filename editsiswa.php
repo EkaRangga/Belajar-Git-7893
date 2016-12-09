@@ -1,6 +1,7 @@
 <?php
 
 //update dari github
+//by Eka Rangga
 
 	require_once('lib/DBClass.php');
 	require_once('lib/m_siswa.php');
