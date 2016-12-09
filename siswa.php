@@ -1,6 +1,7 @@
 <?php
 
 //edit 9/12/2016
+//update local
 
 	require_once('lib/DBClass.php');
 	require_once('lib/m_siswa.php');
