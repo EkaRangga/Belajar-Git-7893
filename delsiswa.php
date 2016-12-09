@@ -1,4 +1,8 @@
 <?php
+
+//update 9 Desember 2016
+//by Eka Rangga
+
 	require_once('lib/DBClass.php');
 	require_once('lib/m_siswa.php');
 	
