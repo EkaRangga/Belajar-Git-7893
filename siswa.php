@@ -1,7 +1,6 @@
 <?php
 
-//edit 9/12/2016
-//update local
+// fix komentar setelah merge
 
 	require_once('lib/DBClass.php');
 	require_once('lib/m_siswa.php');
